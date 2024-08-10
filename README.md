@@ -11,7 +11,7 @@ Welcome to my GitHub corner of the universe! 🌌 I’m a full-stack web develop
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: HTML, CSS, JavaScript, React Js, Python 🐍
+- **Languages**: HTML, CSS, JavaScript, C/C++, Python 🐍
 - **Frameworks**: [React.js](https://reactjs.org/) (for crafting dynamic UIs) & [Django](https://www.djangoproject.com/) (for building robust back-ends)
 - **Tools**: Git, GitHub, Visual Studio Code
 - **Databases**: MySql
