@@ -35,6 +35,9 @@ Here’s a peek at what I’ve been working on:
 - 🐦 [Twitter](https://x.com/VKing2283) – Follow my coding journey and musings.
 - 📧 [Email](mailto:vivekbarvaliya4224.com) – Feel free to reach out for collaborations or just to say hello!
 
+## 🔓 Unlock My Portfolio
+- 🖥️ [portfolio](https://vivekbarvaliya.netlify.app/) - Check out my portfolio to see how I solve real-world challenges with code.
+
 I’m excited to share my coding adventures with you and look forward to collaborating on some awesome projects. Thanks for stopping by! 🙌
 
 ---
