@@ -26,7 +26,7 @@ Welcome to my GitHub corner of the universe! 🌌 I’m a full-stack web develop
 
 Here’s a peek at what I’ve been working on:
 
-- **[Project 1: Portfolio Website]([https://github.com/Vivek4224/My_Project/tree/main/vivek%20site/responsive-portfolio-website-patrick-main](https://github.com/Vivek4224/2_3D_PORTFOLIO))**: My personal portfolio built with React to showcase my projects and skills. 🌟
+- **[Project 1: Portfolio Website](https://github.com/Vivek4224/2_3D_PORTFOLIO)**: My personal portfolio built with React to showcase my projects and skills. 🌟
 - **[Project 2: MUSCELMATRIX](https://github.com/Vivek4224/MUSCELMATRIX)**: A Web-Based Fitness Solution with Python Backend. ✅
 
 ## 📬 Let’s Connect!
