@@ -5,7 +5,7 @@ Welcome to my GitHub corner of the universe! 🌌 I’m a full-stack web develop
 ## 🚀 About Me
 
 - 🧑‍💻 **Full-Stack Newbie**: On a quest to master both the front-end and back-end of web development. Currently, my trusty tools are Python and React!
-- 🎓 **Recent Grad**: I’ve completed my [degree/bootcamp] in [Your Field] and am now ready to apply my newfound skills in exciting projects.
+- 🎓 **Recent Grad**: I’ve completed my BCA in Web Development and am now ready to apply my newfound skills in exciting projects.
 - 🔍 **Tech Enthusiast**: From algorithms to APIs, I’m always eager to dive into new technologies and solve intriguing problems.
 - 🤝 **Open Source Fan**: Excited to collaborate on open-source projects and learn from the amazing developer community.
 
@@ -26,8 +26,8 @@ Welcome to my GitHub corner of the universe! 🌌 I’m a full-stack web develop
 
 Here’s a peek at what I’ve been working on:
 
-- **[Project 1: Portfolio Website](https://github.com/Vivek4224/My_Project/tree/main/vivek%20site/responsive-portfolio-website-patrick-main)**: My personal portfolio built with React to showcase my projects and skills. 🌟
-- **[Project 2: Task Manager](https://github.com/yourusername/project3)**: A task management tool with a sleek UI and a Python-powered API for managing tasks and user data. ✅
+- **[Project 1: Portfolio Website]([https://github.com/Vivek4224/My_Project/tree/main/vivek%20site/responsive-portfolio-website-patrick-main](https://github.com/Vivek4224/2_3D_PORTFOLIO))**: My personal portfolio built with React to showcase my projects and skills. 🌟
+- **[Project 2: MUSCELMATRIX](https://github.com/Vivek4224/MUSCELMATRIX)**: A Web-Based Fitness Solution with Python Backend. ✅
 
 ## 📬 Let’s Connect!
 
