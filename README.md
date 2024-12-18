@@ -31,7 +31,7 @@ Here’s a peek at what I’ve been working on:
 
 ## 📬 Let’s Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/vivek-barvaliya/) – Connect with me and let’s network!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vivek-barvaliya-8375b7325/) – Connect with me and let’s network!
 - 🐦 [Twitter](https://x.com/VKing2283) – Follow my coding journey and musings.
 - 📧 [Email](mailto:vivekbarvaliya4224.com) – Feel free to reach out for collaborations or just to say hello!
 
