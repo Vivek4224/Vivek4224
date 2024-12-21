@@ -52,7 +52,15 @@
 
 ###
 
-<p align="left"><a href="https://github.com/Vivek4224/2_3D_PORTFOLIO">Project 1: Portfolio Website </a>: My personal portfolio built with React to showcase my projects and skills. 🌟<br><a href="https://github.com/Vivek4224/MUSCELMATRIX">Project 2</a>: MUSCELMATRIX: A Web-Based Fitness Solution with Python Backend. ✅</p>
+<p align="left"><a href="https://github.com/Vivek4224/2_3D_PORTFOLIO">Project 1: Portfolio Website </a>: My personal portfolio built with React to showcase my projects and skills. 🌟<br><a href="https://github.com/Vivek4224/MUSCELMATRIX">Project 2: MUSCELMATRIX </a>: A Web-Based Fitness Solution with Python Backend. ✅</p>
+
+###
+
+![vivek4224's Stats](https://github-readme-stats.vercel.app/api?username=vivek4224&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+![vivek4224's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivek4224&theme=dark&hide_border=false)
+
+![vivek4224's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek4224&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ###
 
