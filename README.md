@@ -1,44 +1,75 @@
-# 👋 Hello! I'm Vivek Barvaliya!
+<h1 align="center">Hi 👋! My name is Vivek</h1>
 
-Welcome to my GitHub corner of the universe! 🌌 I’m a full-stack web developer just beginning my journey in the vast world of code. With a toolkit featuring Python and React, I’m here to build, learn, and have some fun along the way. 🎉
+###
 
-## 🚀 About Me
+<h2 align="left">🚀 About Me</h2>
 
-- 🧑‍💻 **Full-Stack Newbie**: On a quest to master both the front-end and back-end of web development. Currently, my trusty tools are Python and React!
-- 🎓 **Recent Grad**: I’ve completed my BCA in Web Development and am now ready to apply my newfound skills in exciting projects.
-- 🔍 **Tech Enthusiast**: From algorithms to APIs, I’m always eager to dive into new technologies and solve intriguing problems.
-- 🤝 **Open Source Fan**: Excited to collaborate on open-source projects and learn from the amazing developer community.
+###
 
-## 🛠️ Skills & Tools
+<p align="left">🧑‍💻 Full-Stack Newbie: On a quest to master both the front-end and back-end of web development. Currently, my trusty tools are Python and React!</p>
 
-- **Languages**: HTML, CSS, JavaScript, C/C++, Python 🐍
-- **Frameworks**: [React.js](https://reactjs.org/) (for crafting dynamic UIs) & [Django](https://www.djangoproject.com/) (for building robust back-ends)
-- **Tools**: Git, GitHub, Visual Studio Code
-- **Databases**: MySql
+###
 
-## 🌟 Current Learning Goals
+<p align="left">🎓 Recent Grad: I’ve completed my BCA in Web Development and am now ready to apply my newfound skills in exciting projects.</p>
 
-- 📚 **Deep Dive into React.js**: Exploring advanced React patterns and state management with Redux.
-- 🛠️ **Mastering Python Back-End**: Getting cozy with Flask or Django for creating APIs and handling server-side logic.
-- 🚀 **Enhancing Deployment Skills**: Learning about cloud services and deployment strategies to make my apps production-ready.
+###
 
-## 🏗️ Projects
+<p align="left">🔍 Tech Enthusiast: From algorithms to APIs, I’m always eager to dive into new technologies and solve intriguing problems.</p>
 
-Here’s a peek at what I’ve been working on:
+###
 
-- **[Project 1: Portfolio Website](https://github.com/Vivek4224/2_3D_PORTFOLIO)**: My personal portfolio built with React to showcase my projects and skills. 🌟
-- **[Project 2: MUSCELMATRIX](https://github.com/Vivek4224/MUSCELMATRIX)**: A Web-Based Fitness Solution with Python Backend. ✅
+<h2 align="left">🛠️ Skills & Tools</h2>
 
-## 📬 Let’s Connect!
+###
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/vivek-barvaliya-8375b7325/) – Connect with me and let’s network!
-- 🐦 [Twitter](https://x.com/VKing2283) – Follow my coding journey and musings.
-- 📧 [Email](mailto:vivekbarvaliya4224.com) – Feel free to reach out for collaborations or just to say hello!
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+</div>
 
-## 🔓 Unlock My Portfolio
-- 🖥️ [portfolio](https://vivekb08.netlify.app/) - Check out my portfolio to see how I solve real-world challenges with code.
+###
 
-I’m excited to share my coding adventures with you and look forward to collaborating on some awesome projects. Thanks for stopping by! 🙌
+<h2 align="left">🏗️ Projects</h2>
 
----
+###
 
+<p align="left"><a href="https://github.com/Vivek4224/2_3D_PORTFOLIO">Project 1: Portfolio Website </a>: My personal portfolio built with React to showcase my projects and skills. 🌟<br><a href="https://github.com/Vivek4224/MUSCELMATRIX">Project 2</a>: MUSCELMATRIX: A Web-Based Fitness Solution with Python Backend. ✅</p>
+
+###
+
+<h2 align="left">💬📩 Contact Us !</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/vivek-barvaliya-8375b7325/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/vivekbarvaliya08/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
