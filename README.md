@@ -56,23 +56,19 @@
 
 ###
 
-###
-<div align="left">
-<h2 align="left">📈 Git Stats</h2>
+### 📈 Git Stats
 ![vivek4224's Stats](https://github-readme-stats.vercel.app/api?username=vivek4224&theme=dark&show_icons=true&hide_border=false&count_private=true)
-</div>
-  
-###
 
 ###
-<h2 align="left">🔥 Git Streak</h2>
+
+### 🔥 Git Streak
 ![vivek4224's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivek4224&theme=dark&hide_border=false)
-###
 
 ###
-<h2 align="left">💻 Top Languages Used </h2>
+
+### 💻 Top Languages Used
 ![vivek4224's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek4224&theme=dark&show_icons=true&hide_border=false&layout=compact)
-###
+
 ###
 
 <h2 align="left">💬📩 Contact Us !</h2>
