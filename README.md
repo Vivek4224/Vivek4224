@@ -61,11 +61,6 @@
 
 ###
 
-### 🔥 Git Streak
-![vivek4224's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivek4224&theme=dark&hide_border=false)
-
-###
-
 ### 💻 Top Languages Used
 ![vivek4224's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek4224&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
